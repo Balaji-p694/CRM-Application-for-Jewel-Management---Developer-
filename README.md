@@ -104,9 +104,8 @@ This Jewel Inventory CRM application demonstrates how Salesforce can be leverage
 
 ## Media
 
-- [Project Documentation](https://developer.salesforce.com/docs/)
-- [Video Link](https://trailhead.salesforce.com/)
-- [Inventory Management Best Practices](https://www.salesforce.com/products/platform/best-practices/)
+- [Project Documentation](https://drive.google.com/file/d/113W2VJQn5OXktS9GKUnLRByBOb-FMHnl/view?usp=drive_link)
+- [Video Link](https://drive.google.com/file/d/1jsHNWUSPPYZV9PsKnOOE5uiTcJxu2spk/view?usp=drive_link)
 
 ---
 
